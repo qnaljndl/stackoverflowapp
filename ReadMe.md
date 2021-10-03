@@ -3,6 +3,7 @@ This application is build over StackOverflowAPI for searching questions in Stack
 How to use:
 
 - Run below commands in terminal one by one
+
 	-/stackoverflowAPI_implementation$ source env/bin/activate
 	
 	-(env) /stackoverflowAPI_implementation/stackoverflow_project$ python manage.py runserver
