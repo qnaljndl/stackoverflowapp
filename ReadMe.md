@@ -8,7 +8,7 @@ How to use:
 	
 	-(env) /stackoverflowAPI_implementation/stackoverflow_project$ python manage.py runserver
 
-- Browse to localhost url - http://127.0.0.1:8000/
+- Browse to localhost url - http://127.0.0.1:8000/search/
 - This is 'POST' api call
 - need to provide content in below format
 		{
