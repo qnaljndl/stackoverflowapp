@@ -4,6 +4,7 @@ How to use:
 
 - Run below commands in terminal one by one
 	-/stackoverflowAPI_implementation$ source env/bin/activate
+	
 	-(env) /stackoverflowAPI_implementation/stackoverflow_project$ python manage.py runserver
 
 - Browse to localhost url - http://127.0.0.1:8000/
