@@ -26,14 +26,10 @@ How to use:
 		
 	Constraints:
 	
-	-'user_id' field is complusory
-	
-	-'tagged' and 'intitle' cannot be None at sametime
-	
-	-'nottagged' can only be used if tagged is used
-	
-	-acceptable value for sort can only be one of - ['activity', 'creation', 'votes', 'relevance']
-	
+	-'user_id' field is complusory	
+	-'tagged' and 'intitle' cannot be None at sametime	
+	-'nottagged' can only be used if tagged is used	
+	-acceptable value for sort can only be one of - ['activity', 'creation', 'votes', 'relevance']	
 	-acceptable value for order can only be one of - ['desc', 'asc']
 
 Constraints:
